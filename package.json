@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "devNodemon": "nodemon src/index.js",
-    "devNode": "node --watch src/index.js"
+    "devNode": "node --watch src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
